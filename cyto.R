@@ -1,5 +1,5 @@
 library(dplyr);library(readr);library(tidyr)
-mydir<-"C:/Users/wjssm/Desktop/cnv"
+mydir<-
 setwd(mydir)
 
 cyto <- read.table("cytoBand.txt")
