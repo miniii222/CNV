@@ -17,6 +17,11 @@ cnv data 분석
 - 오줌 데이터 pattern은 잘 보이지 않음.
 - 값들이 튀는 것이 
 
+### binary model
+- 방광암이 그나마 잘 예측되므로
+- 방광암 : 1 / 나머지 : 0 -> modeling
+- 방광암 : 1 / normal : 0 -> modeling
+
 
 ## 다음에 할 것
 - pattern 살펴볼 것
