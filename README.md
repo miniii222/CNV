@@ -21,7 +21,8 @@ cnv data 분석
 - 방광암이 그나마 잘 예측되므로
 - 방광암 : 1 / 나머지 : 0 -> modeling
 - 방광암 : 1 / normal : 0 -> modeling
-
+#### only urine -> accuracy 70%정도
+#### using TCGA fit urine
 
 ## 다음에 할 것
 - pattern 살펴볼 것
