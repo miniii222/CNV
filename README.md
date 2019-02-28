@@ -22,10 +22,12 @@ cnv data 분석
 - 방광암 : 1 / 나머지 : 0 -> modeling
 - 방광암 : 1 / normal : 0 -> modeling
 #### only urine -> accuracy 70%정도 : [code](https://github.com/miniii222/CNV/blob/master/binary_modeling_urine.ipynb)
-#### using TCGA fit urine
+#### using TCGA fit urine : [code](https://github.com/miniii222/CNV/blob/master/binary_modeling_using_TCGA.ipynb)
 - 방광암 : 1 / normal : 0 -> modeling
   - stacking(randomforest, svm, logist regression) 까지 써서 나온 결과
   ![](https://github.com/miniii222/CNV/blob/master/%EC%BA%A1%EC%B2%981.JPG '1')
+
+
 ## 다음에 할 것
 - pattern 살펴볼 것
 - report 작성
