@@ -55,3 +55,7 @@ cnv data 분석
 ## 다음에 할 것
 - pattern 살펴볼 것
 - report 작성
+
+###scaling
+- MinMaxScaling이 더 좋은 경우도 있고(DecisionTree)
+- MaxAbsScaling이 더 좋은 경우도 있고(Adaboost)
