@@ -62,6 +62,4 @@ cnv data 분석
 
 
 ## 포스터 논문 준비
-M1 : 28개의 암 분류
-M2 : BC, PC,RC,Normal 분류
-M3 : BC, Normal 
+M1 : 28개의 암 분류 / M2 : BC, PC,RC,Normal 분류 / M3 : BC, Normal 
