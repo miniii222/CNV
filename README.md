@@ -59,3 +59,9 @@ cnv data 분석
 ###scaling
 - MinMaxScaling이 더 좋은 경우도 있고(DecisionTree)
 - MaxAbsScaling이 더 좋은 경우도 있고(Adaboost)
+
+
+## 포스터 논문 준비
+M1 : 28개의 암 분류
+M2 : BC, PC,RC,Normal 분류
+M3 : BC, Normal 
