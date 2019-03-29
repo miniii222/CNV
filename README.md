@@ -63,3 +63,4 @@ cnv data 분석
 
 ## 포스터 논문 준비
 M1 : 28개의 암 분류 / M2 : BC, PC,RC,Normal 분류 / M3 : BC, Normal 
+- [2019-03-29]scaling하면서, threshold조정하니까 일단 accuracy 상승!!
